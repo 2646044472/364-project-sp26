@@ -1,0 +1,10 @@
+numpy
+pandas
+Pillow
+tqdm
+torch
+torchvision
+
+# Optional:
+# timm          # needed for some teacher/backbone options
+# transformers  # needed only for hf_birds_b2 backbone option
