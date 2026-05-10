@@ -25,7 +25,7 @@ The folder you pass to `--data-dir` should contain the official image files and 
 
 Use Python `3.10+`.
 
-From this `code/` folder:
+From the repository root:
 
 ```bash
 pip install -r requirements.txt
